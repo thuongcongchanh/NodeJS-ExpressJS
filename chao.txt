@@ -1,0 +1,4 @@
+
+Chào bạn ${filter}
+Chào bạn John
+Chào bạn abc
